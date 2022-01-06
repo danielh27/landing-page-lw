@@ -1,0 +1,14 @@
+.btn-green {
+  background-color: #30b758;
+  padding: 15px 30px;
+  color: white;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: 0.3s;
+  display: inline-block;
+  margin: 15px 0;
+}
+
+.btn-green:hover {
+  background-color: #3ac162;
+}
